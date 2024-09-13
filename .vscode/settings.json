@@ -1,0 +1,9 @@
+
+
+{
+    "search.exclude": {
+        "**/*.code-search": false,
+        "28e7b92-871myq8-k091ns2-hcdea": true
+        
+    }
+}
